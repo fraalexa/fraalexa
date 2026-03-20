@@ -24,7 +24,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/fraalexa/fraalexa/output/snake.svg" alt="Snake animation" />
-
-###
