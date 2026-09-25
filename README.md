@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -20,6 +20,6 @@
 
 <br />
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=fraalexa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
